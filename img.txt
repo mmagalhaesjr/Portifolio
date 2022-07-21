@@ -1,0 +1,44 @@
+ <main id="imgs">
+    <div class="img">
+        <img src="img/p1.png" width="200px" 
+        height="200px" alt="">
+        <p class="texto">primeiro</p>
+    </div>
+    <div class="img">
+        <img src="img/p2.png" width="230px" height="200px" alt="">
+        <p class="texto">segundo</p>
+    </div>
+    <div class="img">
+        <img src="img/p3.png" width="170px" height="200px" alt="">
+        <p class="texto">terceiro</p>
+    </div>
+    <div class="img">
+        <img src="img/p4.png" width="250px" height="200px" alt="">
+        <p class="texto">quarto</p>
+    </div>   
+ </main> 
+    
+
+
+
+
+
+
+
+/*#imgs{
+    position: relative;
+    display:flex;
+}
+
+.img:hover{
+position: relative;
+transform: scale(1.1);
+}
+
+.texto{
+    position: relative;
+    font-size: 20px;
+   
+   
+}
+*/
